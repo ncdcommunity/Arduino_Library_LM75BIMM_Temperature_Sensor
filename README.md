@@ -1,5 +1,5 @@
 
-[![LM75BIMM](LM75BIMM_I2C.png)](https://store.ncd.io/product/lis3mdl-3-axis-magnetometer-16-bit-i2c-mini-module/)
+[![LM75BIMM](LM75BIMM_I2C.png)](https://store.ncd.io/product/lm75bimm-temperature-sensor-%C2%B12c-9-bit-with-3-address-lines-i2c-mini-module/)
 
 # LM75BIMM
 
@@ -8,10 +8,10 @@ This Device is available from www.ncd.io
 
 [SKU: LM75BIMM_I2CS]
 
-(https://store.ncd.io/product/lis3mdl-3-axis-magnetometer-16-bit-i2c-mini-module/)
+(https://store.ncd.io/product/lm75bimm-temperature-sensor-%C2%B12c-9-bit-with-3-address-lines-i2c-mini-module/)
 This Sample code can be used with Arduino.
 
-Hardware needed to interface LIS3MDL sensor with Arduino
+Hardware needed to interface LM75BIMM sensor with Arduino
 
 1. <a href="https://store.ncd.io/product/i2c-shield-for-arduino-nano/">Arduino Nano</a>
 
@@ -21,7 +21,7 @@ Hardware needed to interface LIS3MDL sensor with Arduino
 
 4. <a href="https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/">Arduino Due</a>
 
-5. <a href="https://store.ncd.io/product/lis3mdl-3-axis-magnetometer-16-bit-i2c-mini-module/">LM75BIMM 16Bit 3Axis Accelometer Sensor</a>
+5. <a href="https://store.ncd.io/product/lm75bimm-temperature-sensor-%C2%B12c-9-bit-with-3-address-lines-i2c-mini-module/">LM75BIMM Temperature Sensor</a>
 
 6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
